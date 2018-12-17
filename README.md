@@ -1,2 +1,4 @@
 # git_practice2
-SOME SURPRISE CHANGESnew changes
+SOME SURPRISE CHANGES
+new changes
+LOTS OF CHANGES
